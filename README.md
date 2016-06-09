@@ -18,7 +18,7 @@ It connects to web version server through sockets (socket.io), in other words, y
 
 1. Open installers directory
 2. Open the directory that matches your platform's architecture
-3. Execute appropiate file
+3. Execute appropriate file
 
 
     # Linux example
