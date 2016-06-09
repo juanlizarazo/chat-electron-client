@@ -2,7 +2,7 @@
 
 Desktop client for the server project [chat-nodejs-service](https://github.com/juanlizarazo/chat-nodejs-service)
 
-![Preview](https://github.com/juanlizarazo/chat-electron-client/raw/master/screenshot.png =400)
+![Preview](https://github.com/juanlizarazo/chat-electron-client/raw/master/screenshot.png)
 
 ## Stack
 
