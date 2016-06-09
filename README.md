@@ -20,7 +20,9 @@ It connects to web version server through sockets (socket.io), in other words, y
 2. Open the directory that matches your platform's architecture
 3. Execute appropiate file
 
+
     # Linux example
+
     cd installers && \
     tar -zxvf  chat-electron-client-linux-x64.tar.gz chat-electron-client-linux-x64/ && \
     ./chat-electron-client
