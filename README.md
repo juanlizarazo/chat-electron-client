@@ -5,7 +5,7 @@ Desktop client for the server project [chat-nodejs-serice](https://github.com/ju
 ## Stack
 
 Electron wrapping copy of static assets (html/css/js) from web version.
-It connects to web version server through sockets (socket.io).
+It connects to web version server through sockets (socket.io), in other words, you need an internet connection.
 
 ## Run from source with electron
 
@@ -19,5 +19,6 @@ It connects to web version server through sockets (socket.io).
 3. Execute appropiate file
 
     # Linux example
-    cd installers/chat-electron-client-linux-x64 && \
+    cd installers && \
+    tar -zxvf  chat-electron-client-linux-x64.tar.gz chat-electron-client-linux-x64/ && \
     ./chat-electron-client
