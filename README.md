@@ -1,6 +1,8 @@
 # chat-electron-client
 
-Desktop client for the server project [chat-nodejs-serice](https://github.com/juanlizarazo/chat-nodejs-service)
+Desktop client for the server project [chat-nodejs-service](https://github.com/juanlizarazo/chat-nodejs-service)
+
+![Preview](https://github.com/juanlizarazo/chat-electron-client/raw/master/screenshot.png)
 
 ## Stack
 
